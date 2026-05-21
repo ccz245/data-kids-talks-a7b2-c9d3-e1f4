@@ -15,6 +15,7 @@
             <enclosure url="https://ccz245.github.io/data-kids-talks-a7b2-c9d3-e1f4/audio/ep16_quantum_supremacy.mp3" length="13417254" type="audio/mpeg"/>
             <guid isPermaLink="false">kids-talks_16</guid>
             <itunes:author>Kids Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-kids-talks-a7b2-c9d3-e1f4/cover.svg"/>
             <itunes:summary>The physics of Shor's Algorithm and the race to decrypt the world's secrets before the key is forged.</itunes:summary>
         </item>
         <item>
@@ -24,6 +25,7 @@
             <enclosure url="https://ccz245.github.io/data-kids-talks-a7b2-c9d3-e1f4/audio/ep17_artificial_star.mp3" length="11307605" type="audio/mpeg"/>
             <guid isPermaLink="false">kids-talks_17</guid>
             <itunes:author>Kids Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-kids-talks-a7b2-c9d3-e1f4/cover.svg"/>
             <itunes:summary>The engineering struggle of fusion energy: building a magnetic bottle to hold the fire of the gods.</itunes:summary>
         </item>
         <item>
@@ -33,6 +35,7 @@
             <enclosure url="https://ccz245.github.io/data-kids-talks-a7b2-c9d3-e1f4/audio/ep18_the_mind_bridge.mp3" length="13425091" type="audio/mpeg"/>
             <guid isPermaLink="false">kids-talks_18</guid>
             <itunes:author>Kids Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-kids-talks-a7b2-c9d3-e1f4/cover.svg"/>
             <itunes:summary>Brain-Computer Interfaces and the battle against the bandwidth limits of the human skull.</itunes:summary>
         </item>
     </channel>
