@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
-        <title>Kids Talks - Startup Playbooks</title>
+        <title>Kids Talks</title>
+        <itunes:title>Kids Talks</itunes:title>
+        <itunes:image href="https://ccz245.github.io/data-kids-talks-a7b2-c9d3-e1f4/cover.svg"/>
         <link>https://github.com/ccz245/data-kids-talks-a7b2-c9d3-e1f4</link>
         <language>en-us</language>
         <itunes:author>ccz245</itunes:author>
