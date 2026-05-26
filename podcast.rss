@@ -38,5 +38,15 @@
             <itunes:image href="https://ccz245.github.io/data-kids-talks-a7b2-c9d3-e1f4/cover.png"/>
             <itunes:summary>Brain-Computer Interfaces and the battle against the bandwidth limits of the human skull.</itunes:summary>
         </item>
+        <item>
+            <title>Stuxnet</title>
+            <description>The Digital Missile: the code that crossed the air gap to shatter uranium centrifuges.</description>
+            <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-kids-talks-a7b2-c9d3-e1f4/audio/ep23_stuxnet_digital_missile.mp3" length="5412187" type="audio/mpeg"/>
+            <guid isPermaLink="false">kids-talks_23</guid>
+            <itunes:author>Kids Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-kids-talks-a7b2-c9d3-e1f4/cover.png"/>
+            <itunes:summary>The Digital Missile: the code that crossed the air gap to shatter uranium centrifuges.</itunes:summary>
+        </item>
     </channel>
 </rss>
