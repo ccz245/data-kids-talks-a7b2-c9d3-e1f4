@@ -39,6 +39,36 @@
             <itunes:summary>Brain-Computer Interfaces and the battle against the bandwidth limits of the human skull.</itunes:summary>
         </item>
         <item>
+            <title>Project Azorian</title>
+            <description>The Impossible Heist: the CIA's $800 million mission to steal a sunken Soviet giant.</description>
+            <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-kids-talks-a7b2-c9d3-e1f4/audio/ep20_project_azorian.mp3" length="15779246" type="audio/mpeg"/>
+            <guid isPermaLink="false">kids-talks_20</guid>
+            <itunes:author>Kids Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-kids-talks-a7b2-c9d3-e1f4/cover.png"/>
+            <itunes:summary>The Impossible Heist: the CIA's $800 million mission to steal a sunken Soviet giant.</itunes:summary>
+        </item>
+        <item>
+            <title>Starfish Prime</title>
+            <description>The Rainbow Bomb: when a space blast turned the sky neon and killed the world's first TV satellite.</description>
+            <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-kids-talks-a7b2-c9d3-e1f4/audio/ep21_starfish_prime.mp3" length="15059834" type="audio/mpeg"/>
+            <guid isPermaLink="false">kids-talks_21</guid>
+            <itunes:author>Kids Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-kids-talks-a7b2-c9d3-e1f4/cover.png"/>
+            <itunes:summary>The Rainbow Bomb: when a space blast turned the sky neon and killed the world's first TV satellite.</itunes:summary>
+        </item>
+        <item>
+            <title>Kelly Johnson &amp; The Blackbird</title>
+            <description>The Damned Swede: building the SR-71, the plane that leaked fuel so it could fly through fire.</description>
+            <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-kids-talks-a7b2-c9d3-e1f4/audio/ep22_kelly_johnson_blackbird.mp3" length="13603769" type="audio/mpeg"/>
+            <guid isPermaLink="false">kids-talks_22</guid>
+            <itunes:author>Kids Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-kids-talks-a7b2-c9d3-e1f4/cover.png"/>
+            <itunes:summary>The Damned Swede: building the SR-71, the plane that leaked fuel so it could fly through fire.</itunes:summary>
+        </item>
+        <item>
             <title>Stuxnet</title>
             <description>The Digital Missile: the code that crossed the air gap to shatter uranium centrifuges.</description>
             <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
