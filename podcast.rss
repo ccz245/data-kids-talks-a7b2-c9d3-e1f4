@@ -88,5 +88,55 @@
             <itunes:image href="https://ccz245.github.io/data-kids-talks-a7b2-c9d3-e1f4/cover.png"/>
             <itunes:summary>The Digital Missile: the code that crossed the air gap to shatter uranium centrifuges.</itunes:summary>
         </item>
+        <item>
+            <title>The Tsar Bomba</title>
+            <description>The math of fusion and the decision to swap uranium for lead to save the world.</description>
+            <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-kids-talks-a7b2-c9d3-e1f4/audio/ep24_the_tsar_bomba.mp3" length="15172369" type="audio/mpeg"/>
+            <guid isPermaLink="false">kids-talks_24</guid>
+            <itunes:author>Kids Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-kids-talks-a7b2-c9d3-e1f4/cover.png"/>
+            <itunes:summary>The math of fusion and the decision to swap uranium for lead to save the world.</itunes:summary>
+        </item>
+        <item>
+            <title>Operation Crossroads</title>
+            <description>The Baker blast and the "invisible killer" that poisoned an entire fleet of warships.</description>
+            <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-kids-talks-a7b2-c9d3-e1f4/audio/ep25_operation_crossroads.mp3" length="12157107" type="audio/mpeg"/>
+            <guid isPermaLink="false">kids-talks_25</guid>
+            <itunes:author>Kids Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-kids-talks-a7b2-c9d3-e1f4/cover.png"/>
+            <itunes:summary>The Baker blast and the "invisible killer" that poisoned an entire fleet of warships.</itunes:summary>
+        </item>
+        <item>
+            <title>The Glomar Explorer</title>
+            <description>The CIA’s impossible 3-mile heist to steal a Soviet submarine from the bottom of the Pacific.</description>
+            <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-kids-talks-a7b2-c9d3-e1f4/audio/ep26_the_glomar_explorer.mp3" length="14877081" type="audio/mpeg"/>
+            <guid isPermaLink="false">kids-talks_26</guid>
+            <itunes:author>Kids Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-kids-talks-a7b2-c9d3-e1f4/cover.png"/>
+            <itunes:summary>The CIA’s impossible 3-mile heist to steal a Soviet submarine from the bottom of the Pacific.</itunes:summary>
+        </item>
+        <item>
+            <title>The Demon Core</title>
+            <description>Two accidents, one core, and the fraction of a second where overconfidence turned fatal.</description>
+            <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-kids-talks-a7b2-c9d3-e1f4/audio/ep27_the_demon_core.mp3" length="13510355" type="audio/mpeg"/>
+            <guid isPermaLink="false">kids-talks_27</guid>
+            <itunes:author>Kids Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-kids-talks-a7b2-c9d3-e1f4/cover.png"/>
+            <itunes:summary>Two accidents, one core, and the fraction of a second where overconfidence turned fatal.</itunes:summary>
+        </item>
+        <item>
+            <title>The SR-72 Hypersonic Future</title>
+            <description>Flying through fire: the physics of scramjets and the transition to the future of global reach.</description>
+            <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-kids-talks-a7b2-c9d3-e1f4/audio/ep28_the_sr72_hypersonic_future.mp3" length="13799060" type="audio/mpeg"/>
+            <guid isPermaLink="false">kids-talks_28</guid>
+            <itunes:author>Kids Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-kids-talks-a7b2-c9d3-e1f4/cover.png"/>
+            <itunes:summary>Flying through fire: the physics of scramjets and the transition to the future of global reach.</itunes:summary>
+        </item>
     </channel>
 </rss>
