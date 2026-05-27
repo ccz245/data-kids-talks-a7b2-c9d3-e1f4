@@ -39,6 +39,16 @@
             <itunes:summary>Brain-Computer Interfaces and the battle against the bandwidth limits of the human skull.</itunes:summary>
         </item>
         <item>
+            <title>Project Pluto</title>
+            <description>The "Flying Crowbar": the terrifying engineering of the nuclear ramjet doomsday machine.</description>
+            <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-kids-talks-a7b2-c9d3-e1f4/audio/ep19_project_pluto.mp3" length="14224438" type="audio/mpeg"/>
+            <guid isPermaLink="false">kids-talks_19</guid>
+            <itunes:author>Kids Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-kids-talks-a7b2-c9d3-e1f4/cover.png"/>
+            <itunes:summary>The "Flying Crowbar": the terrifying engineering of the nuclear ramjet doomsday machine.</itunes:summary>
+        </item>
+        <item>
             <title>Project Azorian</title>
             <description>The Impossible Heist: the CIA's $800 million mission to steal a sunken Soviet giant.</description>
             <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
