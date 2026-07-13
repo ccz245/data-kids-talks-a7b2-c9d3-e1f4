@@ -3,6 +3,8 @@
     <channel>
         <title>Kids Talks</title>
         <itunes:title>Kids Talks</itunes:title>
+        <description>Kids Talks</description>
+        <itunes:summary>Kids Talks</itunes:summary>
         <itunes:image href="https://ccz245.github.io/data-kids-talks-a7b2-c9d3-e1f4/cover.png"/>
         <link>https://github.com/ccz245/data-kids-talks-a7b2-c9d3-e1f4</link>
         <language>en-us</language>
@@ -16,6 +18,7 @@
             <guid isPermaLink="false">kids-talks_16</guid>
             <itunes:author>Kids Talks</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-kids-talks-a7b2-c9d3-e1f4/cover.png"/>
+            <itunes:duration>00:18:38</itunes:duration>
             <itunes:summary>The physics of Shor's Algorithm and the race to decrypt the world's secrets before the key is forged.</itunes:summary>
         </item>
         <item>
@@ -26,6 +29,7 @@
             <guid isPermaLink="false">kids-talks_17</guid>
             <itunes:author>Kids Talks</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-kids-talks-a7b2-c9d3-e1f4/cover.png"/>
+            <itunes:duration>00:15:42</itunes:duration>
             <itunes:summary>The engineering struggle of fusion energy: building a magnetic bottle to hold the fire of the gods.</itunes:summary>
         </item>
         <item>
@@ -36,6 +40,7 @@
             <guid isPermaLink="false">kids-talks_18</guid>
             <itunes:author>Kids Talks</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-kids-talks-a7b2-c9d3-e1f4/cover.png"/>
+            <itunes:duration>00:18:39</itunes:duration>
             <itunes:summary>Brain-Computer Interfaces and the battle against the bandwidth limits of the human skull.</itunes:summary>
         </item>
         <item>
@@ -46,6 +51,7 @@
             <guid isPermaLink="false">kids-talks_19</guid>
             <itunes:author>Kids Talks</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-kids-talks-a7b2-c9d3-e1f4/cover.png"/>
+            <itunes:duration>00:19:45</itunes:duration>
             <itunes:summary>The "Flying Crowbar": the terrifying engineering of the nuclear ramjet doomsday machine.</itunes:summary>
         </item>
         <item>
@@ -56,6 +62,7 @@
             <guid isPermaLink="false">kids-talks_20</guid>
             <itunes:author>Kids Talks</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-kids-talks-a7b2-c9d3-e1f4/cover.png"/>
+            <itunes:duration>00:21:55</itunes:duration>
             <itunes:summary>The Impossible Heist: the CIA's $800 million mission to steal a sunken Soviet giant.</itunes:summary>
         </item>
         <item>
@@ -66,6 +73,7 @@
             <guid isPermaLink="false">kids-talks_21</guid>
             <itunes:author>Kids Talks</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-kids-talks-a7b2-c9d3-e1f4/cover.png"/>
+            <itunes:duration>00:20:55</itunes:duration>
             <itunes:summary>The Rainbow Bomb: when a space blast turned the sky neon and killed the world's first TV satellite.</itunes:summary>
         </item>
         <item>
@@ -76,6 +84,7 @@
             <guid isPermaLink="false">kids-talks_22</guid>
             <itunes:author>Kids Talks</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-kids-talks-a7b2-c9d3-e1f4/cover.png"/>
+            <itunes:duration>00:18:54</itunes:duration>
             <itunes:summary>The Damned Swede: building the SR-71, the plane that leaked fuel so it could fly through fire.</itunes:summary>
         </item>
         <item>
@@ -86,6 +95,7 @@
             <guid isPermaLink="false">kids-talks_23</guid>
             <itunes:author>Kids Talks</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-kids-talks-a7b2-c9d3-e1f4/cover.png"/>
+            <itunes:duration>00:07:31</itunes:duration>
             <itunes:summary>The Digital Missile: the code that crossed the air gap to shatter uranium centrifuges.</itunes:summary>
         </item>
         <item>
@@ -96,6 +106,7 @@
             <guid isPermaLink="false">kids-talks_24</guid>
             <itunes:author>Kids Talks</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-kids-talks-a7b2-c9d3-e1f4/cover.png"/>
+            <itunes:duration>00:21:04</itunes:duration>
             <itunes:summary>The math of fusion and the decision to swap uranium for lead to save the world.</itunes:summary>
         </item>
         <item>
@@ -106,6 +117,7 @@
             <guid isPermaLink="false">kids-talks_25</guid>
             <itunes:author>Kids Talks</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-kids-talks-a7b2-c9d3-e1f4/cover.png"/>
+            <itunes:duration>00:16:53</itunes:duration>
             <itunes:summary>The Baker blast and the "invisible killer" that poisoned an entire fleet of warships.</itunes:summary>
         </item>
         <item>
@@ -116,6 +128,7 @@
             <guid isPermaLink="false">kids-talks_26</guid>
             <itunes:author>Kids Talks</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-kids-talks-a7b2-c9d3-e1f4/cover.png"/>
+            <itunes:duration>00:20:40</itunes:duration>
             <itunes:summary>The CIA’s impossible 3-mile heist to steal a Soviet submarine from the bottom of the Pacific.</itunes:summary>
         </item>
         <item>
@@ -126,6 +139,7 @@
             <guid isPermaLink="false">kids-talks_27</guid>
             <itunes:author>Kids Talks</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-kids-talks-a7b2-c9d3-e1f4/cover.png"/>
+            <itunes:duration>00:18:46</itunes:duration>
             <itunes:summary>Two accidents, one core, and the fraction of a second where overconfidence turned fatal.</itunes:summary>
         </item>
         <item>
@@ -136,6 +150,7 @@
             <guid isPermaLink="false">kids-talks_28</guid>
             <itunes:author>Kids Talks</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-kids-talks-a7b2-c9d3-e1f4/cover.png"/>
+            <itunes:duration>00:19:10</itunes:duration>
             <itunes:summary>Flying through fire: the physics of scramjets and the transition to the future of global reach.</itunes:summary>
         </item>
     </channel>
